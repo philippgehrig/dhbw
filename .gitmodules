@@ -1,24 +1,24 @@
 [submodule "T3INF2002-Compilerbau"]
 	path = T3INF2002-Compilerbau
-	url = ./T3INF2002-Compilerbau/
+	url = https://github.com/philippgehrig/T3INF2002-Compilerbau.git
 [submodule "T3INF2003-Web-Engineering"]
 	path = T3INF2003-Web-Engineering
-	url = ./T3INF2003-Web-Engineering/
+	url = https://github.com/philippgehrig/T3INF2003-Web-Engineering.git
 [submodule "T3INF2004-Datenbanken-I"]
 	path = T3INF2004-Datenbanken-I
-	url = ./T3INF2004-Datenbanken-I/
+	url = https://github.com/philippgehrig/T3INF2004-Datenbanken-I.git
 [submodule "T3INF2005-Technische-Informatik-II"]
 	path = T3INF2005-Technische-Informatik-II
-	url = ./T3INF2005-Technische-Informatik-II/
+	url = https://github.com/philippgehrig/T3INF2005-Technische-Informatik-II.git
 [submodule "T3INF3001-Advanced-Software-Engineering"]
 	path = T3INF3001-Advanced-Software-Engineering
-	url = ./T3INF3001-Advanced-Software-Engineering/
+	url = https://github.com/philippgehrig/T3INF3001-Advanced-Software-Engineering.git
 [submodule "T3INF4252-Messdatenerfassung"]
 	path = T3INF4252-Messdatenerfassung
-	url = ./T3INF4252-Messdatenerfassung/
+	url = https://github.com/philippgehrig/T3INF4252-Messdatenerfassung.git
 [submodule "T3INF4901-Autonomes-Fahren"]
 	path = T3INF4901-Autonomes-Fahren
-	url = ./T3INF4901-Autonomes-Fahren/
+	url = https://github.com/philippgehrig/T3INF4901-Autonomes-Fahren.git
 [submodule "T3INF4902-DevOps"]
 	path = T3INF4902-DevOps
-	url = ./T3INF4902-DevOps/
+	url = https://github.com/philippgehrig/T3INF4902-DevOps.git
