@@ -25,3 +25,6 @@
 [submodule "T3INF4309-FAS"]
 	path = T3INF4309-FAS
 	url = https://github.com/philippgehrig/T3INF4309-FAS.git
+[submodule "T3INF1004-Software-Engineering"]
+	path = T3INF1004-Software-Engineering
+	url = https://github.com/philippgehrig/T3INF1004-Software-Engineering.git
