@@ -1,3 +1,4 @@
+# all git submodules
 [submodule "T3INF2002-Compilerbau"]
 	path = T3INF2002-Compilerbau
 	url = https://github.com/philippgehrig/T3INF2002-Compilerbau.git
