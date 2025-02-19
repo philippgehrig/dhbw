@@ -22,3 +22,6 @@
 [submodule "T3INF4902-DevOps"]
 	path = T3INF4902-DevOps
 	url = https://github.com/philippgehrig/T3INF4902-DevOps.git
+[submodule "T3INF4309-FAS"]
+	path = T3INF4309-FAS
+	url = https://github.com/philippgehrig/T3INF4309-FAS.git
