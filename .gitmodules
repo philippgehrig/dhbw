@@ -28,3 +28,6 @@
 [submodule "T3INF1004-Software-Engineering"]
 	path = T3INF1004-Software-Engineering
 	url = https://github.com/philippgehrig/T3INF1004-Software-Engineering.git
+[submodule "T3INF4308-GPS"]
+	path = T3INF4308-GPS
+	url = https://github.com/philippgehrig/T3INF4308-GPS.git
