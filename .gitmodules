@@ -46,3 +46,6 @@
 [submodule "T3INF3101-Studienarbeit"]
 	path = T3INF3101-Studienarbeit
 	url = https://github.com/philippgehrig/T3INF3101-Studienarbeit.git
+[submodule "T3INF3002-IT-Security"]
+	path = T3INF3002-IT-Security
+	url = https://github.com/philippgehrig/T3INF3002-IT-Security.git
