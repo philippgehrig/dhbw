@@ -49,3 +49,6 @@
 [submodule "T3INF3002-IT-Security"]
 	path = T3INF3002-IT-Security
 	url = https://github.com/philippgehrig/T3INF3002-IT-Security.git
+[submodule "T3INF1006-Technische-Informatik-I"]
+	path = T3INF1006-Technische-Informatik-I
+	url = https://github.com/philippgehrig/T3INF1006-Technische-Informatik-I.git
