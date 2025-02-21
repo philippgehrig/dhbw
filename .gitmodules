@@ -58,3 +58,6 @@
 [submodule "T3INF1002-Theoretische-Informatik-I"]
 	path = T3INF1002-Theoretische-Informatik-I
 	url = https://github.com/philippgehrig/T3INF1002-Theoretische-Informatik-I.git
+[submodule "T3INF1003-Theoretische-Informatik-II"]
+	path = T3INF1003-Theoretische-Informatik-II
+	url = https://github.com/philippgehrig/T3INF1003-Theoretische-Informatik-II.git
