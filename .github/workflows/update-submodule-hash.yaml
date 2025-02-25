@@ -3,7 +3,27 @@ name: Update Submodule Hash
 on:
   push:
     paths:
-      - 'path/to/submodule/**'
+      - 'T3INF2002-Compilerbau/**'
+      - 'T3INF2003-Web-Engineering/**'
+      - 'T3INF2004-Datenbanken-I/**'
+      - 'T3INF2005-Technische-Informatik-II/**'
+      - 'T3INF3001-Advanced-Software-Engineering/**'
+      - 'T3INF4252-Messdatenerfassung/**'
+      - 'T3INF4901-Autonomes-Fahren/**'
+      - 'T3INF4902-DevOps/**'
+      - 'T3INF4309-FAS/**'
+      - 'T3INF1004-Software-Engineering/**'
+      - 'T3INF4308-GPS/**'
+      - 'T3-3101-Studienarbeit/**'
+      - 'T3INF3002-IT-Security/**'
+      - 'T3INF1006-Technische-Informatik-I/**'
+      - 'T3INF1001-Mathematik-I/**'
+      - 'T3INF1002-Theoretische-Informatik-I/**'
+      - 'T3INF1003-Theoretische-Informatik-II/**'
+      - 'T3INF1005-Key-Qualifications/**'
+      - 'T3INF2002-Theoretische-Informatik-III/**'
+      - 'T3INF2001-Mathematik-II/**'
+      
 
 jobs:
   update-submodule-hash:
