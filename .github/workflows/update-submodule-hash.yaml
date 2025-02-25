@@ -1,0 +1,28 @@
+name: Update Submodule Hash
+
+on:
+  push:
+    paths:
+      - 'path/to/submodule/**'
+
+jobs:
+  update-submodule-hash:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        submodules: recursives
+
+    - name: Update Submodule Hash
+      run: |
+        cd path/to/submodule
+        latest_hash=$(git rev-parse HEAD)
+        cd ../..
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git submodule update --remote
+        git add .
+        git commit -m "Update submodule to latest commit $latest_hash"
+        git push
