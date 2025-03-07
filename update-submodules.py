@@ -18,7 +18,7 @@ def update_submodules(repo_path):
         submodule.update(init=True, recursive=False)
         
         # Refresh the submodule reference and get the new commit hash from its repo
-        new_hash = submodule.module().head.commit.hexsha
+        new_hash = submodule.module().head.commit.hexsha[:7]  # Use only first 7 digits
         
         # Stage the updated pointer in the parent repository
         repo.git.add(submodule.path)
