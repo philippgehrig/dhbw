@@ -73,6 +73,6 @@
 [submodule "T3300-Thesis"]
 	path = T3300-Thesis
 	url = https://github.com/philippgehrig/T3300-Thesis.git
-[submodule "T3INF2002-Technische-Informatik-III"]
-	path = T3INF2002-Technische-Informatik-III
-	url = https://github.com/philippgehrig/T3INF2002-Technische-Informatik-III.git
+[submodule "T3INF4260-Technische-Informatik-III"]
+	path = T3INF4260-Technische-Informatik-III
+	url = https://github.com/philippgehrig/T3INF4260-Technische-Informatik-III.git
