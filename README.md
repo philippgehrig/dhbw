@@ -61,6 +61,7 @@ The repository includes the following submodules:
 - `T3INF4309-FAS`
 - `T3INF4901-Autonomes-Fahren`
 - `T3INF4902-DevOps`
+- `T3300-Thesis`
 
 ## Contributing
 
