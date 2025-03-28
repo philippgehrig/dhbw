@@ -1,6 +1,6 @@
 # ITA22 Lecture Materials and Repositories
 
-This repository contains the lecture materials and repositories for ITA22 courses at DHBW Stuttgart. It includes several submodules for different courses, each with its own repository.
+This repository contains the lecture materials and repositories for ITA22 courses at DHBW Stuttgart. It includes several submodules for different courses, each with its own repository. All classes were completed between October 2022 and September 2025.
 
 ## Cloning the Repository
 
